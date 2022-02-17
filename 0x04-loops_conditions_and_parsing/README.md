@@ -1,1 +1,1 @@
-Project04:loops conditions and arsing
+Project04:loops conditions and parsing
